@@ -3,7 +3,7 @@ import java.util.Iterator;
 /**
  * Interface for an ordered collection (also known as a sequence).
  * @author Lilita Yenew
- * @version 1.0 September 27, 2022
+ * @version 1.0 
  */
 public interface MyList<E> {
     /**
